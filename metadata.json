@@ -1,0 +1,7 @@
+{
+  "name": "CheckMasterAuto3_3",
+  "description": "Smart automotive inspection system with AI-powered OCR and dynamic checklist management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
